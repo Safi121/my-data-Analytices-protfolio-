@@ -8,6 +8,24 @@ The project also identifies key e-commerce platforms contributing to sales and c
 This project showcases your ability to extract meaningful insights from data and formulate data-driven business strategies.
 
 
+
+
+
+
+
+
+
+![final ](https://github.com/Safi121/my-data-Analytices-protfolio-/assets/154042247/835b0a74-0238-4a8c-8c9a-9ced2561be4c)
+
+
+
+
+
+
+
+
+
+
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "sales_data.cvs" file, which contains detailed information about each sale made by the company 
 
